@@ -1,10 +1,5 @@
-HELLO ALL!!
 
-# Test::Cli
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/test/cli`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+#This Ruby gem provides a Command Line Interface(CLI) which allows the user to scrape data or utilize an API from a public website. 
 
 ## Installation
 
