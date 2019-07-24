@@ -1,25 +1,15 @@
 
-#This Ruby gem provides a Command Line Interface(CLI) which allows the user to scrape data or utilize an API from a public website. 
+#This Ruby gem provides a Command Line Interface(CLI) to view a list of movies opening soon at theaters nearest to the user's zipcode per search results from the IMDB website. 
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'test-cli'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install test-cli
+    $ gem install movies-coming-soon
 
 ## Usage
 
-TODO: Write usage instructions here
+Type the code below and follow the on screen prompts.
+
+    $ movies-coming-soon
 
 ## Development
 
